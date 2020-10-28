@@ -1,2 +1,2 @@
-# god
+# app mobile
 of course
